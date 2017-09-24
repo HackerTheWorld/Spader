@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/fluent-hc-4.5.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/httpclient-cache-4.5.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/httpclient-win-4.5.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/htmlparser-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/je-7.3.7.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/JEJConsole.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/RepJEJConsole.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/juniversalchardet-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/java/Spader/commons-lang.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
